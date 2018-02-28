@@ -12,6 +12,10 @@ public class PTra08_04 {
 		String message = "Hello, world!";
 
 		// ★ メソッドconvertMessageを（変数message）で呼び出してください
+		covertMessage(message);
+	}
+	public static void covertMessage(String str) {
+		System.out.println(str+"と引数と"+str);
 
 	}
 
