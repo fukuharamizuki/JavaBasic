@@ -102,4 +102,10 @@ public class Character {
 
 		return str.toString();
 	}
+
+
+
+
+
+
 }
