@@ -19,5 +19,14 @@ public class PTra16_02 {
 		double d = 453.592;
 
 		// ★ 上記基本型を、それぞれのラッパークラスに代入してください
+		Boolean num1 = b;
+		Byte num2 = by;
+		Short num3 = s;
+		Character num4 = c;
+		Integer num5 = i;
+		Long num6 = l;
+		Float num7 = f;
+		Double num8 = d;
 	}
 }
+

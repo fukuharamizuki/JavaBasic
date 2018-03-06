@@ -17,7 +17,7 @@ public class PTra17_02 {
 		}
 	}
 
-	public static void dispInput() {
+	public static void dispInput() throws Exception{
 
 		System.out.println("文字を入力してください");
 
